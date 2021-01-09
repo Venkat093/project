@@ -1,4 +1,4 @@
-1. Create a directory ‘project_dir’ & cd to ‘project_dir’.
+1. Create a directory ‘project_dir’ & cd to ‘project_dir’.  minoor change in css assignment branch
 2. Initialize git version database. (git init)
 3. Create a new file index.html. minnor changes here in master branch
 4. Check the git status. You should find index.html as untracked file.
